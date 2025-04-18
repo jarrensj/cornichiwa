@@ -4,6 +4,7 @@ export default function Home() {
       <main className="flex flex-col gap-[16px] row-start-2 items-center">
         <h1 className="text-2xl font-bold">cornichiwa 🦄👋</h1>
         <p className="text-sm text-center">コーンチワ</p>
+        <p className="text-sm text-center">how unicorns say hello</p>
       </main>
       <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
         <p>footer</p>
