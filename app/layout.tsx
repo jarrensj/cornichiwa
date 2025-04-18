@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "cornichiwa",
-  description: "cornichiwa 🦄👋",
+  title: "cornichiwa 🦄👋",
+  description: "how unicorns say hello",
 };
 
 export default function RootLayout({
